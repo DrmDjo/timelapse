@@ -46,7 +46,7 @@ D = Delete, delete projects, exported videos, delete pictures/folders etc.
 
 ### PROJECT MANAGEMENT
 
-![Trello Board 1](/docs/timelapse_trello_01.png)
+![Trello Board 1](./docs/timelapse_trello_01.png)
 
 
 
