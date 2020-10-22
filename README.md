@@ -41,4 +41,35 @@ D = Delete, delete projects, exported videos, delete pictures/folders etc.
 
 
 
-```# timelapse
+```
+
+
+### PROJECT MANAGEMENT
+
+![Trello Board 1](/docs/timelapse_trello_01.png)
+
+
+
+
+### WIREFRAMES
+
+Landing Page
+![Trello Board 1](/docs/taapp/landing.png)
+
+First Choice Page
+![Trello Board 1](/docs/taapp/first_choices.png)
+
+New Project Page
+![Trello Board 1](/docs/taapp/new_project.png)
+
+Project Setup Page
+![Trello Board 1](/docs/taapp/project_setup.png)
+
+Camera Setup Page
+![Trello Board 1](/docs/taapp/camsetup.png)
+
+Open Project Page
+![Trello Board 1](/docs/taapp/open_project.png)
+
+Calculator Page
+![Trello Board 1](/docs/taapp/calculator.png)
