@@ -13,7 +13,7 @@ Created by Josh LITTLEFIELD
 This is an app that helps with shooting a succesful timelapse.
 
 The first version of the app will handle the calculation on how you need to setup the camera/computer to shoot the desired amount of photos to be able to create the desired length of shot.
-It will search for available cameras and will shoot with the settings from the calculator.
+It will search for available cameras adn IP cameras and will shoot with the settings from the calculator.
 
 Additional Features to be added after first version is working and fully tested -
 - file handling to delete unnecessary footage
@@ -40,13 +40,12 @@ D = Delete, delete projects, exported videos, delete pictures/folders etc.
 
 
 
-
 ```
 
 
 ### PROJECT MANAGEMENT
 
-![Trello Board 1](./docs/timelapse_trello_01.png)
+![Trello Board 1](/docs/timelapse_trello_01.png)
 
 
 
@@ -54,22 +53,22 @@ D = Delete, delete projects, exported videos, delete pictures/folders etc.
 ### WIREFRAMES
 
 Landing Page
-![Trello Board 1](/docs/taapp/landing.png)
+![Landing](/docs/taapp/LANDING.png)
 
 First Choice Page
-![Trello Board 1](/docs/taapp/first_choices.png)
+![First Choice](/docs/taapp/FIRST_CHOICES.png)
 
 New Project Page
-![Trello Board 1](/docs/taapp/new_project.png)
+![New Project](/docs/taapp/NEW_PROJECT.png)
 
 Project Setup Page
-![Trello Board 1](/docs/taapp/project_setup.png)
+![Project Setup](/docs/taapp/PROJECT_SETUP.png)
 
 Camera Setup Page
-![Trello Board 1](/docs/taapp/camsetup.png)
+![Camera Setup](/docs/taapp/CamSetup.png)
 
 Open Project Page
-![Trello Board 1](/docs/taapp/open_project.png)
+![Open Project](/docs/taapp/OPEN_PROJECT.png)
 
 Calculator Page
-![Trello Board 1](/docs/taapp/calculator.png)
+![Calculator](/docs/taapp/CALCULATOR.png)
