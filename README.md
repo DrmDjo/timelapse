@@ -13,7 +13,7 @@ Created by Josh LITTLEFIELD
 This is an app that helps with shooting a succesful timelapse.
 
 The first version of the app will handle the calculation on how you need to setup the camera/computer to shoot the desired amount of photos to be able to create the desired length of shot.
-It will search for available cameras adn IP cameras and will shoot with the settings from the calculator.
+It will search for available cameras and IP cameras and will shoot with the settings from the calculator.
 
 Additional Features to be added after first version is working and fully tested -
 - file handling to delete unnecessary footage
